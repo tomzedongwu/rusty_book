@@ -1,0 +1,1 @@
+/Users/apple/Desktop/rusty_book/snake/target/debug/snake: /Users/apple/Desktop/rusty_book/snake/src/draw.rs /Users/apple/Desktop/rusty_book/snake/src/game.rs /Users/apple/Desktop/rusty_book/snake/src/main.rs /Users/apple/Desktop/rusty_book/snake/src/snake.rs
